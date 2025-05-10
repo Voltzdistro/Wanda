@@ -1,12 +1,12 @@
 {
-  "name": "malvin",
+  "name": "wanda",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By Voltzdistro",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "start": "pm2 start index.js --deep-monitoring --attach --name wanda",
+    "stop": "pm2 stop wanda",
+    "restart": "pm2 restart wanda"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
